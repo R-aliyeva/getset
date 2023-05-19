@@ -35,6 +35,12 @@ namespace ConsoleApp2
             }
         }     
         public string Cardname { get;set; }
+        public decimal Balance { get; set; }
+        public void increase(decimal bl)
+        {
+            balance += bl;
+
+        }
         public string Cvv {
             get
             { 
@@ -78,12 +84,8 @@ namespace ConsoleApp2
 
             }
                 }
-       //ublic int Balance { get; set; }
-        //public void Increasebalance(decimal bl)
-        //{ 
-        //    balance += bl;
-
-        //}
+    
+  
 
 
 
