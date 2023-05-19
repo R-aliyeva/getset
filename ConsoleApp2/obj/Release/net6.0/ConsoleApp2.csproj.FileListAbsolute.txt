@@ -1,0 +1,5 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
