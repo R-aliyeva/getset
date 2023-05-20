@@ -38,7 +38,7 @@ namespace ConsoleApp2
         public decimal Balance { get; set; }
         public void increase(decimal bl)
         {
-            balance += bl;
+            Balance += bl;
 
         }
         public string Cvv {
@@ -92,4 +92,4 @@ namespace ConsoleApp2
 
 
     }
-}
+
